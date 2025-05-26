@@ -28,7 +28,7 @@
 ## 🖼️ Capturas de pantalla
 
 <p align="center">
-  <img src="fotos/imagen.png" width="400">
+  <img src="fotos/image.png" width="400">
  
 </p>
 
