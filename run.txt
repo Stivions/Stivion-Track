@@ -1,0 +1,2 @@
+pyinstaller --onefile --add-data "sherlock;sherlock" --icon=stivion.ico StivionTrackv2.0.py
+
