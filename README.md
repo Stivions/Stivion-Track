@@ -28,8 +28,8 @@
 ## 🖼️ Capturas de pantalla
 
 <p align="center">
-  <img src="ruta/a/tu/imagen1.png" width="400">
-  <img src="ruta/a/tu/imagen2.png" width="400">
+  <img src="fotos/imagen.png" width="400">
+ 
 </p>
 
 ---
